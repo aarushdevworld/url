@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+
 import pyshorteners, random
 
 app = Flask(__name__)
